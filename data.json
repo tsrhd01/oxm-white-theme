@@ -3,6 +3,7 @@
     "name": "White Theme",
     "description": "The Uncool Theme",
     "icon": "icon.png",
+    "image": "image.jpg",
     "type": "Theme",
     "author": "tsrhd",
     "version": "1.1",
@@ -13,7 +14,8 @@
         "files": [
           "data.json",
           "index.css",
-          "icon.png"
+          "icon.png",
+          "image.jpg"
         ]
       }
   }
