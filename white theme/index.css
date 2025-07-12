@@ -1,0 +1,31 @@
+
+
+.container {
+  background: white;
+  color: black;
+}
+.container .nav-container .header .logo-svg svg {
+  fill: black;
+}
+
+.container .nav-container {
+  background: white;
+  color: black;
+  fill: black;
+  border-right: 1px solid lightgray;
+}
+
+.container .nav-container .option .sub-option .svg {
+  fill: black;
+}
+
+.container .welcome {
+  background: white;
+  color: black;
+}
+.container .editor {
+  background: white;
+  color: black;
+}
+
+
